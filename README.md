@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sania</h1>
 <h3 align="center">A passionate cybersecurity specialist 🛡️ dedicated to ethical hacking 🕵️‍♂️, penetration testing 🎯, and digital security research 🔍.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saniah4ck&label=Profile%20views&color=0e75b6&style=flat" alt="saniah4ck" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saniah4ck" alt="saniah4ck" /></a> </p>
-
 - 🔭 I’m currently working on **🚀 Penetration Testing Toolkit**
 
 - 🌱 I’m currently learning **📚 Advanced Exploit Development, Red Teaming, and Threat Intelligence**
@@ -34,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saniah4ck&show_icons=true&locale=en" alt="saniah4ck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saniah4ck&" alt="saniah4ck" /></p>
+
